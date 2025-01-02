@@ -1,0 +1,53 @@
+    //menu.json
+    {
+      "name": "Pages",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Contact",
+          "url": "/contact"
+        },
+        {
+          "name": "Blog",
+          "url": "/blog"
+        },
+        {
+          "name": "Authors",
+          "url": "/authors"
+        },
+        {
+          "name": "Categories",
+          "url": "/categories"
+        },
+        {
+          "name": "Tags",
+          "url": "/tags"
+        },
+        {
+          "name": "404 Page",
+          "url": "/404"
+        }
+      ]
+    },
+        {
+      "name": "Elements",
+      "url": "/elements"
+    },
+    {
+      "name": "Content",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Blog",
+          "url": "/myblog"
+        },
+        {
+          "name": "Tutorial",
+          "url": "/tutorial"
+        }
+       
+      ]
+    }
+    

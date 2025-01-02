@@ -1,0 +1,36 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Resume",
+      "url": "/resume"
+    },
+    {
+      "name": "Blog",
+      "url": "/myblog"
+    },
+    {
+      "name": "Tutorial",
+      "url": "/tutorial"
+    }
+
+   
+  ],
+  "footer": [
+    {
+      "name": "Privacy Policy",
+      "url": "/privacy-policy"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    }
+  ]
+}
