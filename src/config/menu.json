@@ -8,10 +8,7 @@
       "name": "About",
       "url": "/about"
     },
-    {
-      "name": "Resume",
-      "url": "/resume"
-    },
+    
     {
       "name": "Blog",
       "url": "/myblog"
