@@ -5,7 +5,7 @@ description: "Raspberry Pi, a small yet powerful single-board computer, has revo
 "
 date: 2024-12-04T05:00:00Z
 image: "/images/GS-RPI.png"
-categories: ["Hardware", "SBC"]
+categories: ["Getting Started"]
 author: "Solomon Ankomah"
 tags: ["Raspberry Pi"]
 draft: false

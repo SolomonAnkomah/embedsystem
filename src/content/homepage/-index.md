@@ -2,8 +2,8 @@
 # Banner
 banner:
   title: "Master Embedded Systems: Tutorials, Insights, and More"
-  content: "Welcome to embedsystem, your go-to resource for comprehensive tutorials and insightful articles on embedded systems. Whether you're a beginner or a seasoned professional, we provide content to help you navigate the complexities of embedded technology."
-  image: "/images/banner.png"
+  content: "Welcome to EmbedSystem, your premier source for in-depth tutorials, insightful articles, and the latest news in embedded systems. From microcontroller programming to real-time operating systems, we cover all aspects to help you master embedded technology."
+  image: "/images/bb.png"
   button:
     enable: true
     label: "Explore Blogs"
@@ -11,41 +11,41 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "Our Offerings"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: ""
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "**Comprehensive Tutorials:** Step-by-step guides on various embedded systems topics, including microcontroller programming, interfacing sensors, and implementing communication protocols."
+      - "**Industry Insights:** Articles discussing the latest trends, best practices, and advancements in embedded technology."
+      - "**Project Examples:** Detailed breakdowns of real-world embedded projects to inspire and guide your own developments."
+      
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Astro"
+  - title: "Discover Tutorials"
     image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Our tutorials provide practical, hands-on knowledge about embedded systems. Here are the highlights:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "**Beginner-Friendly:** Step-by-step guides simplify complex concepts."
+      - "**Hands-On Projects:** Apply your learning to real-world scenarios."
+      - "**Customizable Topics:** Tutorials on microcontrollers, languages, and tools to fit your needs."
+      - "**Up-to-Date Content:** Learn the latest in embedded systems technology."
+      
     button:
       enable: true
       label: "Go to tutorials"
       link: "/tutorial"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: "Top Reasons to Explore Embedded Systems"
     image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Embedded systems are at the heart of modern technology, offering endless opportunities for growth and innovation."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "**High Demand:** Embedded systems are integral to modern technology, leading to a growing demand for skilled professionals."
+      - "**Diverse Applications:** From consumer electronics to industrial automation, embedded systems are used in various industries."
+      - "**Innovative Field:** Work on cutting-edge technology that shapes the future."
+      
     button:
       enable: false
       label: ""
